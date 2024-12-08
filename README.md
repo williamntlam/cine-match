@@ -12,6 +12,11 @@ CineMatch is a movie recommendation system designed to enhance your movie discov
 
 ---
 
+## Todo
+[] Currently learning **Neo4j** and **Cypher Query Language** to deepen understanding of graph databases and query optimization.
+
+---
+
 ## Key Features
 
 ### 1. **Rich Movie Database**
