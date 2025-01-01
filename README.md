@@ -1,5 +1,5 @@
 
-# CineMatch - Movie Recommendation System
+# CineMatch - Movie Recommendation System (TODO - Project still has yet to start)
 
 **Side Project w/ Neo4j**  
 **Built with the MERN Stack and Neo4j Graph Database**
